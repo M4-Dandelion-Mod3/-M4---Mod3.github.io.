@@ -1,1 +1,2 @@
-print("sbchr")
+a=input("name")
+print("your name is",a)
